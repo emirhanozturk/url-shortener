@@ -1,0 +1,36 @@
+.container{
+    width: 800px;
+    height: 300px;
+    padding: 20px;
+    position: relative;
+    margin: auto;
+    padding-top: 150px;
+}
+
+#inputUrl{
+    width: 600px;
+    margin: auto;
+    display: block;
+    padding-top: 10px;
+}
+
+#shortUrl{
+    text-decoration: underline;
+    font-family: "Garamond", serif;
+}
+#longUrl{
+    font-family: "Garamond", serif;
+}
+div{
+    text-align: center;
+}
+body{
+    background-color: darkgray;
+}
+
+#buton{
+    height:40px; 
+    width:100px; 
+}
+
+  
